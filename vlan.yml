@@ -1,6 +1,6 @@
 ---
 - name: tao vlan
-  hosts: all
+  hosts: chunghm_router
   gather_facts: no
 
   tasks:
